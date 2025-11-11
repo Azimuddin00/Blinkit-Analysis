@@ -107,7 +107,7 @@ It serves as a **decision-support system** to drive data-backed strategies, incr
 ## 📂 File Information  
 | Field | Details |
 |-------|----------|
-| **File Name** | [Excel Project for Data Analysis.xlsx](Blinkit Project for Data Analysis.xlsx) |
+| **File Name** | <a href="Excel Project for Data Analysis.xlsx"> Excel Project for Data Analysis.xlsx</a> |
 | **Project Title** | Blinkit Analysis |
 | **Author** | *Azimuddin* |
 | **Platform** | GitHub Portfolio Project |
