@@ -117,5 +117,5 @@ It serves as a **decision-support system** to drive data-backed strategies, incr
 ---
 
 ## 📸 Dashboard Preview
-> <img src="blinkit_dashboard.png" alt="Blinkit Dashboard Preview" style="max-width:100%;height:auto;display:block;margin:0 auto;">
+> <img src="Screenshot 2025-11-11 144428.png" alt="Blinkit Dashboard Preview" style="max-width:100%;height:auto;display:block;margin:0 auto;">
   
