@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/Project%20Status-Completed-success?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Domain-Data%20Analysis-blue?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Visualization-Dashboard-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
@@ -108,19 +107,15 @@ It serves as a **decision-support system** to drive data-backed strategies, incr
 ## 📂 File Information  
 | Field | Details |
 |-------|----------|
-| **File Name** | `Excel Project for Data Analysis.xlsx` |
+| **File Name** | <a href="Blinkit Project for Data Analysis.xlsx"> Excel Project for Data Analysis.xlsx</a> |
 | **Project Title** | Blinkit Analysis |
-| **Author** | *Your Name* |
+| **Author** | *Azimuddin* |
 | **Platform** | GitHub Portfolio Project |
 | **Status** | Completed |
-  
-
----
-
-## 🌟 Acknowledgements  
-Special thanks to the open data community and Excel enthusiasts who inspire data-driven storytelling through visualization and analytics.  
+   
 
 ---
 
 ## 📸 Dashboard Preview
-> *(Add a screenshot of your dashboard here once uploaded)*  
+> <img src="Screenshot 2025-11-11 144428.png" alt="Blinkit Dashboard Preview" style="max-width:100%;height:auto;display:block;margin:0 auto;">
+  
